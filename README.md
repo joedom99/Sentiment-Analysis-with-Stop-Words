@@ -1,4 +1,4 @@
-Sentiment Analysis with Stop Words using R
+# Sentiment Analysis with Stop Words using R
 
 Sample R script and dataset to go along with my blog post about Sentiment Analysis with Stop Words using R. 
 
